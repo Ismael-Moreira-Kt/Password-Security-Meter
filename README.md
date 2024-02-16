@@ -90,8 +90,3 @@ All of these methods can be tested using the application's front-end.
         <td>----</td>
     </tr>
 </table>
-
-
-## Authors
-
-- [@Ismael-Moreira-Kt](https://github.com/Ismael-Moreira-Kt)
